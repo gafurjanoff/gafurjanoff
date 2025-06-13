@@ -10,7 +10,6 @@ I'm a **Python Backend Developer** and **Data Scientist** passionate about build
 - 📫 How to reach me:  
   📧 Email: samandargofurjonov0707@gmail.com
   💼 LinkedIn: [linkedin.com/in/samandar-gofurjonov](https://www.linkedin.com/in/samandar-gofurjonov)  
-  🐦 Twitter/X: [@gafurjanoff](https://twitter.com/gafurjanoff)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving algorithm challenges and can get really competitive with them (especially late at night 🦉)
