@@ -7,15 +7,15 @@ I build AI products that real people use, mostly in Uzbek — a language with ve
 training data and no public benchmarks. That constraint is what I find interesting:
 you cannot lean on someone else's leaderboard, so you have to measure things yourself.
 
-### What I've shipped
+### What I've built
 
-**[UzRailways Assistant](https://ai.das-uty.uz)** — a RAG chatbot answering passenger
-questions about Uzbekistan Railways services and policies, in Uzbek, by text or voice.
-Built the full retrieval pipeline and fine-tuned the model on domain data.
+**UzRailways Assistant** — a RAG chatbot answering passenger questions about Uzbekistan
+Railways services and policies, in Uzbek, by text or voice. Built the full retrieval
+pipeline and fine-tuned the model on domain data.
 `LangChain` `Gemini` `Yandex SpeechKit` `FastAPI` `Redis` `PostgreSQL`
 
-**[Multilevel Speaking](https://multilevelspeaking.app)** — an exam platform that records
-spoken English answers, transcribes them, and scores them against a rubric.
+**Multilevel Speaking** — an exam platform that records spoken English answers,
+transcribes them, and scores them against a rubric.
 `Whisper` `OpenAI GPT` `FastAPI` `Next.js` `PostgreSQL` `Docker`
 
 ### What I'm working on now
